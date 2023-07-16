@@ -7,7 +7,7 @@ import net.minestom.server.event.trait.PlayerInstanceEvent;
 import org.jetbrains.annotations.NotNull;
 
 /**
- * Called when a player is modifying his position.
+ * Called when a player is modifying their position.
  */
 public class PlayerMoveEvent implements PlayerInstanceEvent, CancellableEvent {
 
